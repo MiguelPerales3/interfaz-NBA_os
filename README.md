@@ -2,20 +2,22 @@
 
 Una sencilla interfaz gráfica con botones para lanzar minijuegos clásicos como `Snake`, `Tetris` y una shell personalizada. La interfaz fue desarrollada en Python usando `Tkinter`.
 
-## Requisitos
+# Requisitos
 
 Este proyecto requiere un entorno Linux (preferiblemente) 
 
-## Instalación
+# Instalación
 
-## Instalar dependencias:
+# Instalar dependencias:
 
    En sistemas basados en Debian/Ubuntu:
 
    ```bash
    sudo apt update
-   sudo apt install nsnake bastet xterm
-## Clona este repositorio:
+   sudo apt install nsnake bastet xterm\
+
+
+# Clona este repositorio:
 
 bash
 Copiar
